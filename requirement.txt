@@ -1,0 +1,6 @@
+gradio
+langchain_google_community
+langchain_google_vertexai
+langchain
+langchain_community
+playwright
